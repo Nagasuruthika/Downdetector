@@ -1,4 +1,4 @@
 # Downdetector
 
-Output:
+Output: <br>
 ![Image](output.jpg)
