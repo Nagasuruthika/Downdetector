@@ -1,7 +1,7 @@
 # Downdetector
 ## System Requirements:
-pip install beautifulsoups4
-pip install requests
+pip install beautifulsoups4 <br>
+pip install requests <br>
 
 
 ## Output: <br>
